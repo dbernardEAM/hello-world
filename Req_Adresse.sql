@@ -1,3 +1,4 @@
+-- Ceci est le code pour afficher l'adresse
 SELECT 	COM.COM_CODE, COM.COM_DESC Customer, ADR.ADR_TEXT Adresse
 FROM 	R5COMPANIES COM, R5ADDRESS ADR
 WHERE 	ADR.ADR_CODE=  COM.COM_CODE||'#'||COM_ORG
