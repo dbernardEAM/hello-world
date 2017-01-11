@@ -1,3 +1,11 @@
+/*****************************************************
+*		TEAM
+*	Ajoute d'un commentaire a mon js
+*	GitHub c'est bien
+*
+*
+*
+********************************************************/
 // Changer une LOV
 var vFormPanel = EAM.Utils.getScreen().getCurrentTab().getFormPanel();
 try{
